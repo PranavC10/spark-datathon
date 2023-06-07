@@ -1,7 +1,7 @@
 import PyPDF2
 from nltk.tokenize import sent_tokenize
 
-def extract_climate_summary(pdf_path):
+def extract_climate_measures(pdf_path):
     # Open the PDF file
     with open(pdf_path, 'rb') as file:
         # Create a PDF reader object
@@ -11,28 +11,27 @@ def extract_climate_summary(pdf_path):
         text = ""
         for page_num in range(pdf_reader.numPages):
             page = pdf_reader.getPage(page_num)
-            text += page.extractText()
+            text += page.extract_text()
 
         # Tokenize the text into sentences
         sentences = sent_tokenize(text)
 
-        # Look for sentences containing climate-related keywords
-        climate_keywords = ['climate', 'global warming', 'carbon emissions', 'greenhouse gases']
-        climate_sentences = []
+        # Look for sentences containing climate-related measures and metrics
+        climate_keywords = ['carbon footprint', 'greenhouse gas emissions', 'energy consumption', 'renewable energy', 'water usage']
+        climate_measures = []
         for sentence in sentences:
-            if any(keyword in sentence.lower() for keyword in climate_keywords):
-                climate_sentences.append(sentence)
+            for keyword in climate_keywords:
+                if keyword in sentence.lower():
+                    climate_measures.append(sentence)
 
-        # Generate a summary from the climate-related sentences
-        summary = ' '.join(climate_sentences)
-
-        return summary
+        return climate_measures
 
 # Provide the path to the ESG company PDF document
 pdf_path = 'path/to/esg_company_report.pdf'
 
-# Extract the climate-related summary
-climate_summary = extract_climate_summary(pdf_path)
+# Extract the climate-related measures and metrics
+climate_measures = extract_climate_measures(pdf_path)
 
-# Print the summary
-print(climate_summary)
+# Print the extracted measures and metrics
+for measure in climate_measures:
+    print(measure)
