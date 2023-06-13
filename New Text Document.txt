@@ -101,3 +101,24 @@ Disruption of Operations: Natural disasters can disrupt bank operations, causing
 Insurance Claims: Inadequate insurance coverage may require banks to absorb some financial impacts themselves, potentially leading to write-downs.
 Reputational and Regulatory Risks: Negative perception of a bank's response to natural disasters can impact its reputation, and regulatory bodies may impose stricter standards, affecting capital positions and potentially leading to write-downs.
 Economic and Market Effects: Natural disasters can cause changes in interest rates, inflation, and market conditions, impacting the valuation and market value of bank investments and potentially resulting in write-downs.
+
+Case Study: Frost Bank and Hurricane Harvey
+
+Frost Bank, a Texas-based bank with a significant presence in the Houston area, experienced the following impacts during Hurricane Harvey:
+
+Branch Closures and Operational Disruptions:
+
+Several Frost Bank branches in the Houston area had to be temporarily closed due to flooding and safety concerns caused by the hurricane.
+This disruption affected the bank's ability to provide in-person banking services to its customers in the affected regions.
+Loan Portfolio Impact:
+
+The widespread damage and financial hardships faced by individuals and businesses in the aftermath of Hurricane Harvey led to an increase in loan delinquencies and defaults.
+Frost Bank experienced higher credit risk as borrowers struggled to meet their financial obligations.
+Relief and Assistance Programs:
+
+Frost Bank promptly implemented special assistance programs to support its customers affected by the hurricane.
+These programs included loan payment deferrals, loan modification options, and expedited loan applications for rebuilding and repair efforts.
+Community Support and Recovery Efforts:
+
+Frost Bank actively participated in community support and recovery initiatives following Hurricane Harvey.
+The bank collaborated with local organizations, provided financial contributions to relief efforts, and encouraged its employees to volunteer and assist with recovery activities.
