@@ -188,3 +188,18 @@ Certainly! Here's a table summarizing the approximate green financing budgets an
 | BNP Paribas        | €200 billion ($235 billion) by 2025 |
 
 Please note that the figures provided are approximate and represent the commitments made by the banks. The actual allocation and disbursal of funds for green financing may vary over time. For the most accurate and up-to-date information, it is recommended to refer to the banks' official reports or announcements.
+
+
+Certainly! Here's a table summarizing the sustainability/ESG strategies of select banking companies:
+
+| Banking Company   | Sustainability/ESG Strategy                                                                                 |
+|-------------------|-----------------------------------------------------------------------------------------------------------|
+| JPMorgan Chase    | Commitment to align financing activities with the goals of the Paris Agreement and sustainable development |
+| Bank of America   | Focus on responsible lending, sustainable investments, and renewable energy financing                      |
+| Citigroup         | Financing and facilitating climate solutions, integration of ESG factors into decision-making processes    |
+| HSBC              | Commitment to support the transition to a low-carbon economy, sustainable financing and investments        |
+| BNP Paribas       | Aligning activities with the Paris Agreement, promoting sustainable finance, and responsible banking      |
+| Barclays          | Target to become a net-zero bank by 2050, financing green projects and sustainable initiatives           |
+| Standard Chartered | Commitment to sustainable finance, supporting renewable energy, green infrastructure, and sustainable growth |
+
+Please note that the information provided is a summary and may not encompass the full range of sustainability/ESG strategies pursued by these banking companies. It's always recommended to refer to the banks' official reports, sustainability statements, or websites for more comprehensive information.
