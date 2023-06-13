@@ -92,3 +92,12 @@ Wells Fargo: Wells Fargo has established a goal to provide $500 billion in finan
 Citigroup: Citigroup has committed to a net-zero emissions target for its own operations by 2030 and for its financed emissions by 2050. They are focusing on financing renewable energy projects, green buildings, and sustainable transportation. Citigroup also supports the development of green bonds and sustainable finance initiatives.
 
 These examples demonstrate how US banks are taking various approaches to address climate change. They are integrating sustainability into their strategies, financing green projects, and setting ambitious emissions reduction targets. By aligning their operations and financing activities with climate goals, these banks contribute to the transition to a more sustainable and low-carbon future.
+
+
+
+Credit and Loan Losses: Natural disasters can increase loan defaults, leading to potential write-downs and higher provisions for credit losses.
+Asset Quality Deterioration: Damage to collateral, such as properties or infrastructure, can result in the need to adjust asset valuations, potentially leading to write-downs or impairment charges.
+Disruption of Operations: Natural disasters can disrupt bank operations, causing branch closures and system failures, resulting in increased expenses or write-downs.
+Insurance Claims: Inadequate insurance coverage may require banks to absorb some financial impacts themselves, potentially leading to write-downs.
+Reputational and Regulatory Risks: Negative perception of a bank's response to natural disasters can impact its reputation, and regulatory bodies may impose stricter standards, affecting capital positions and potentially leading to write-downs.
+Economic and Market Effects: Natural disasters can cause changes in interest rates, inflation, and market conditions, impacting the valuation and market value of bank investments and potentially resulting in write-downs.
